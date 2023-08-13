@@ -1,0 +1,25 @@
+.transaction-history {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.label-transations {
+  border: 1px solid #dddddd;
+  padding: 8px 12px;
+  text-align: left;
+  background-color: #00bcd5;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+}
+.transaction-data tr {
+  border: 1px solid #dddddd;
+  padding: 8px 12px;
+  text-align: center;
+}
+td {
+  border: 1px solid #eaeaea;
+}
